@@ -1,107 +1,145 @@
+<!-- HEADER ANIMATION -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Bhargav%20Raval&fontAlign=40&fontColor=FFFFFF&colorTime=gradient&desc=Full%20Stack%20Developer%20|%20AI%20%26%20ML%20Explorer&descAlign=50&descAlignY=70" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Bhargav Raval</h1>
-<h3 align="center">Full Stack Web Developer | AI/ML Enthusiast</h3>
+<h3 align="center">💻 Full Stack Developer | 🤖 AI/ML Enthusiast | 🇮🇳 Culture-Tech Innovator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00A3FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+ML+Explorer;Building+India-centric+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=500&lines=Building+Bharat-Centric+Tech+Solutions;MERN+Stack+Specialist;Computer+Vision+%26+AI+Learner;Innovation+Rooted+in+Culture" />
 </p>
 
 ---
 
-🔭 I’m a passionate IT professional with expertise in **Full Stack Web Development**, and growing interest in **AI/ML**.  
-💡 I love connecting **technology** with **Indian culture and heritage** — blending ancient wisdom with modern innovation.
+### 🔭 About Me
 
-### 🌐 Portfolio
-- 🔗 [bhargavraval.netlify.app](https://bhargavraval.netlify.app/)
+I'm a passionate **IT professional** and a lifelong learner with a mission to **fuse modern tech with India’s cultural wisdom**.  
+Currently working with **MERN Stack**, exploring **AI/ML** (Python, OpenCV, MediaPipe), and building projects with purpose.
 
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/-bhargavraval-)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:bhargavraval27473@gmail.com)
+---
+
+### 🌐 Portfolio & Profiles
+
+- 🧠 Portfolio: [bhargavraval.netlify.app](https://bhargavraval.netlify.app/)
+- 🧩 Leetcode: [BhargavRaval15](https://leetcode.com/u/BhargavRaval15/)
+- 🧑‍💼 LinkedIn: [linkedin.com/in/-bhargavraval-](https://linkedin.com/in/-bhargavraval-)
+
+<p align="center">
+  <a href="https://linkedin.com/in/-bhargavraval-">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:bhargavraval27473@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/BhargavRaval15/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+### 🖥️ Frontend
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css)
 
 ### 🧠 AI/ML & CV
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
-### 🔧 Backend & DB
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+### 🔧 Backend & Database
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🇮🇳 [Bharat Dharohar](https://github.com/BhargavRaval15/Bharat-Dharohar)
-> A platform showcasing Indian culture and heritage through cultural maps and festival calendars.
+> Celebrating Indian culture with maps, heritage, and festivals.
 
-**Tech:** React, TypeScript, Tailwind CSS, Node.js, MongoDB  
-📌 Leaflet Maps | 🔐 JWT Auth | 📧 Email Verification
-
----
-
-### 🧠 [MudraCalc](https://github.com/BhargavRaval15/MudraCalc)
-> A hand gesture-based calculator using AI/ML and computer vision.
-
-**Tech:** Python, OpenCV, MediaPipe  
-📷 Real-time recognition | 🤖 75% Accuracy
+**Tech Stack:** React, TypeScript, Tailwind, MongoDB, JWT  
+🌏 Geo Maps | ✅ Auth | 📧 Mail Verification
 
 ---
 
-### 🧠 [CodeNivaran](https://github.com/BhargavRaval15/CodeNivaran)
-> Platform for submitting coding problems & receiving AI-generated solutions.
+### ✋ [MudraCalc](https://github.com/BhargavRaval15/MudraCalc)
+> AI-based hand gesture calculator using real-time vision detection.
 
-**Tech:** React, Node.js, MongoDB, Google Gemini API  
-💬 AI Problem Solver | 🧠 NLP via Gemini
-
----
-
-### 🧹 [SwachhSankalp](https://github.com/BhargavRaval15/SwachhSankalp)
-> Cleanliness awareness platform built during internship at Perfetto Solutions.
-
-**Tech:** EJS, Express, MongoDB  
-🏙️ Awareness Portal | 🛠️ Full Stack CRUD
+**Tech Stack:** Python, OpenCV, MediaPipe  
+✋ Hand Landmark Tracking | 🧠 75% Accuracy | Live Detection
 
 ---
 
-## 🏆 Achievements
-- 🛡️ **HackIITK (Cybersecurity)**: Team lead; pre-final round
-- 🤖 **DoseHack’24 (AI/ML)**: Built AI-powered GUI in 24 hrs
-- 💻 200+ Problems on [LeetCode](https://leetcode.com/u/BhargavRaval15/) | ⭐ 2-star on [CodeChef](https://www.codechef.com/users/bhargavraval)
+### 💬 [CodeNivaran](https://github.com/BhargavRaval15/CodeNivaran)
+> AI-assisted code problem resolver with Google Gemini.
+
+**Tech Stack:** React, Node.js, Gemini API  
+🤖 NLP | 🗂️ Problem Submissions | 📮 AI-powered Output
 
 ---
 
-## 📈 GitHub Stats
+### 🧼 [SwachhSankalp](https://github.com/BhargavRaval15/SwachhSankalp)
+> Clean India awareness platform built during internship.
+
+**Tech Stack:** EJS, Express, MongoDB  
+🧹 Dynamic Content | 🧭 Awareness Campaign | 🌐 Full Stack CRUD
+
+---
+
+## 📊 GitHub Insights
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BhargavRaval15&show_icons=true&theme=radical" alt="Bhargav's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhargavRaval15&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BhargavRaval15&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhargavRaval15&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-## 🧠 Vision & Inspiration
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhargavRaval15&theme=react-dark&area=true&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🛡️ **HackIITK Finalist** — Cybersecurity team lead
+- 🤖 **DoseHack’24 Winner** — AI-based medical UI prototype
+- 💡 Solved 200+ problems on LeetCode | ⭐ 2-star CodeChef
+
+---
+
+## 🔭 Vision & Mission
 
 > “**परं वैभवं नेतुमेतत् स्वराष्ट्रम् समर्था भवत्वाशिषा ते भृशम्**”  
 > *May our work lead our nation to the highest glory.*
 
-Inspired by **Swami Vivekananda** and **Atal Bihari Vajpayee**, I strive to integrate technical brilliance with cultural consciousness — working toward a tech-driven, culturally enriched future for Bharat.
+💡 I believe in using **technology for national transformation**, combining **cultural pride** with **scientific vision**.  
+🚩 Inspired by **Swami Vivekananda** & **Atal Bihari Vajpayee**, I aim to empower Bharat through digital innovation.
 
 ---
 
 ### 🌱 Currently Learning
-- AI/ML with TensorFlow and CV tools  
-- Backend optimizations & scalable APIs  
-- Advanced TypeScript and testing tools  
+
+- 📘 Machine Learning & Deep Learning  
+- 🌐 TypeScript + React Testing  
+- 🧠 Optimized REST APIs & Microservices  
 
 ---
 
-*Let’s build tech that’s not just smart — but soulful.* 🇮🇳
+<p align="center">
+  <strong><em>Let’s build tech that’s not just smart — but soulful. 🇮🇳</em></strong>
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ff9ff,100:0083fe&height=150&section=footer"/>
+</p>
