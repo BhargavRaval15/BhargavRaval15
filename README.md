@@ -109,9 +109,9 @@ Currently working with **MERN Stack**, exploring **AI/ML** (Python, OpenCV, Medi
 
 ## 🏆 Achievements
 
-- 🛡️ **HackIITK Finalist** — Cybersecurity team lead
-- 🤖 **DoseHack’24 Winner** — AI-based medical UI prototype
-- 💡 Solved 200+ problems on LeetCode | ⭐ 2-star CodeChef
+- 🛡️ **HackIITK Pre-final round** — Cybersecurity team lead
+- 🤖 **DoseHack’24 Participation** — AI-based medical UI prototype
+- 💡 Solved 250+ problems on LeetCode | ⭐ 2-star CodeChef
 
 ---
 
