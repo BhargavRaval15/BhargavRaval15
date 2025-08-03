@@ -1,7 +1,5 @@
 <!-- HEADER ANIMATION -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Bhargav%20Raval&fontAlign=40&fontColor=FFFFFF&colorTime=gradient&desc=Full%20Stack%20Developer%20|%20AI%20%26%20ML%20Explorer&descAlign=50&descAlignY=70" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Bhargav Raval</h1>
 <h3 align="center">💻 Full Stack Developer | 🤖 AI/ML Enthusiast | 🇮🇳 Culture-Tech Innovator</h3>
