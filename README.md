@@ -58,35 +58,48 @@ Currently working with **MERN Stack**, exploring **AI/ML** (Python, OpenCV, Medi
 
 ## 🚀 Featured Projects
 
-### 🇮🇳 [Bharat Dharohar](https://github.com/BhargavRaval15/Bharat-Dharohar)
-> Celebrating Indian culture with maps, heritage, and festivals.
+### 🇮🇳 [Bharat Dharohar](https://bharatdharohar.netlify.app/)  
+> Celebrating Indian culture with maps, heritage, and festivals.  
+🔗 [GitHub Repo](https://github.com/BhargavRaval15/Bharat-Dharohar) | 🌐 [Live Demo](https://bharatdharohar.netlify.app/)
 
 **Tech Stack:** React, TypeScript, Tailwind, MongoDB, JWT  
-🌏 Geo Maps | ✅ Auth | 📧 Mail Verification
+🌏 Geo Maps | ✅ Auth | 📧 Mail Verification  
 
 ---
 
-### ✋ [MudraCalc](https://github.com/BhargavRaval15/MudraCalc)
-> AI-based hand gesture calculator using real-time vision detection.
+### 🙏 [Gujarat Kalyan Parishad Trust](https://gkptrust.netlify.app/)  
+> NGO platform for social welfare and community development.  
+🔗 [GitHub Repo](https://github.com/BhargavRaval15/Gujarat-Kalyan-Parishad-Trust) | 🌐 [Live Demo](https://gkptrust.netlify.app/)
+
+**Tech Stack:** React, Tailwind, MongoDB  
+📜 About & Mission | 🙌 Community Support | 📬 Contact Portal  
+
+---
+
+### ✋ [MudraCalc](https://github.com/BhargavRaval15/MudraCalc)  
+> AI-based hand gesture calculator using real-time vision detection.  
+🔗 [GitHub Repo](https://github.com/BhargavRaval15/MudraCalc)  
 
 **Tech Stack:** Python, OpenCV, MediaPipe  
-✋ Hand Landmark Tracking | 🧠 75% Accuracy | Live Detection
+✋ Hand Landmark Tracking | 🧠 75% Accuracy | Live Detection  
 
 ---
 
-### 💬 [CodeNivaran](https://github.com/BhargavRaval15/CodeNivaran)
-> AI-assisted code problem resolver with Google Gemini.
+### 💬 [CodeNivaran](https://github.com/BhargavRaval15/CodeNivaran)  
+> AI-assisted code problem resolver with Google Gemini.  
+🔗 [GitHub Repo](https://github.com/BhargavRaval15/CodeNivaran)  
 
 **Tech Stack:** React, Node.js, Gemini API  
-🤖 NLP | 🗂️ Problem Submissions | 📮 AI-powered Output
+🤖 NLP | 🗂️ Problem Submissions | 📮 AI-powered Output  
 
 ---
 
-### 🧼 [SwachhSankalp](https://github.com/BhargavRaval15/SwachhSankalp)
-> Clean India awareness platform built during internship.
+### 🧼 [SwachhSankalp](https://github.com/BhargavRaval15/SwachhSankalp)  
+> Clean India awareness platform built during internship.  
+🔗 [GitHub Repo](https://github.com/BhargavRaval15/SwachhSankalp)  
 
 **Tech Stack:** EJS, Express, MongoDB  
-🧹 Dynamic Content | 🧭 Awareness Campaign | 🌐 Full Stack CRUD
+🧹 Dynamic Content | 🧭 Awareness Campaign | 🌐 Full Stack CRUD  
 
 ---
 
